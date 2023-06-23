@@ -1,0 +1,78 @@
+productID,productName,categoryID,categoryName,description,unitPrice,discontinued
+1,Chai,1,Beverages,"Soft drinks, coffees, teas, beers, and ales",18.00,0
+2,Chang,1,Beverages,"Soft drinks, coffees, teas, beers, and ales",19.00,0
+3,"Aniseed Syrup",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",10.00,0
+4,"Chef Anton's Cajun Seasoning",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",22.00,0
+5,"Chef Anton's Gumbo Mix",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",21.35,1
+6,"Grandma's Boysenberry Spread",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",25.00,0
+7,"Uncle Bob's Organic Dried Pears",7,Produce,"Dried fruit and bean curd",30.00,0
+8,"Northwoods Cranberry Sauce",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",40.00,0
+9,"Mishi Kobe Niku",6,"Meat & Poultry","Prepared meats",97.00,1
+10,Ikura,8,Seafood,"Seaweed and fish",31.00,0
+11,"Queso Cabrales",4,"Dairy Products",Cheeses,21.00,0
+12,"Queso Manchego La Pastora",4,"Dairy Products",Cheeses,38.00,0
+13,Konbu,8,Seafood,"Seaweed and fish",6.00,0
+14,Tofu,7,Produce,"Dried fruit and bean curd",23.25,0
+15,"Genen Shouyu",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",15.50,0
+16,Pavlova,3,Confections,"Desserts, candies, and sweet breads",17.45,0
+17,"Alice Mutton",6,"Meat & Poultry","Prepared meats",39.00,1
+18,"Carnarvon Tigers",8,Seafood,"Seaweed and fish",62.50,0
+19,"Teatime Chocolate Biscuits",3,Confections,"Desserts, candies, and sweet breads",9.20,0
+20,"Sir Rodney's Marmalade",3,Confections,"Desserts, candies, and sweet breads",81.00,0
+21,"Sir Rodney's Scones",3,Confections,"Desserts, candies, and sweet breads",10.00,0
+22,"Gustaf's Knackebröd",5,"Grains & Cereals","Breads, crackers, pasta, and cereal",21.00,0
+23,Tunnbröd,5,"Grains & Cereals","Breads, crackers, pasta, and cereal",9.00,0
+24,"Guarana Fantastica",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",4.50,1
+25,NuNuCa Nuß-Nougat-Creme,3,Confections,"Desserts, candies, and sweet breads",14.00,0
+26,"Gumbär Gummibärchen",3,Confections,"Desserts, candies, and sweet breads",31.23,0
+27,"Schoggi Schokolade",3,Confections,"Desserts, candies, and sweet breads",43.90,0
+28,"Rössle Sauerkraut",7,Produce,"Dried fruit and bean curd",45.60,1
+29,"Thüringer Rostbratwurst",6,"Meat & Poultry","Prepared meats",123.79,1
+30,"Nord-Ost Matjeshering",8,Seafood,"Seaweed and fish",25.89,0
+31,"Gorgonzola Telino",4,"Dairy Products",Cheeses,12.50,0
+32,"Mascarpone Fabioli",4,"Dairy Products",Cheeses,32.00,0
+33,Geitost,4,"Dairy Products",Cheeses,2.50,0
+34,"Sasquatch Ale",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",14.00,0
+35,"Steeleye Stout",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",18.00,0
+36,"Inlagd Sill",8,Seafood,"Seaweed and fish",19.00,0
+37,"Gravad lax",8,Seafood,"Seaweed and fish",26.00,0
+38,"Côte de Blaye",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",263.50,0
+39,"Chartreuse verte",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",18.00,0
+40,"Boston Crab Meat",8,Seafood,"Seaweed and fish",18.40,0
+41,"Jack's New England Clam Chowder",8,Seafood,"Seaweed and fish",9.65,0
+42,"Singaporean Hokkien Fried Mee",5,"Grains & Cereals","Breads, crackers, pasta, and cereal",14.00,1
+43,"Ipoh Coffee",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",46.00,0
+44,"Gula Malacca",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",19.45,0
+45,"Rogede sild",8,Seafood,"Seaweed and fish",9.50,0
+46,Spegesild,8,Seafood,"Seaweed and fish",12.00,0
+47,"Zaanse koeken",3,Confections,"Desserts, candies, and sweet breads",9.50,0
+48,Chocolade,3,Confections,"Desserts, candies, and sweet breads",12.75,0
+49,Maxilaku,3,Confections,"Desserts, candies, and sweet breads",20.00,0
+50,"Valkoinen suklaa",3,Confections,"Desserts, candies, and sweet breads",16.25,0
+51,"Manjimup Dried Apples",7,Produce,"Dried fruit and bean curd",53.00,0
+52,"Filo Mix",5,"Grains & Cereals","Breads, crackers, pasta, and cereal",7.00,0
+53,"Perth Pasties",6,"Meat & Poultry","Prepared meats",32.80,1
+54,Tourtière,6,"Meat & Poultry","Prepared meats",7.45,0
+55,"Pâté chinois",6,"Meat & Poultry","Prepared meats",24.00,0
+56,"Gnocchi di nonna Alice",5,"Grains & Cereals","Breads, crackers, pasta, and cereal",38.00,0
+57,"Ravioli Angelo",5,"Grains & Cereals","Breads, crackers, pasta, and cereal",19.50,0
+58,"Escargots de Bourgogne",8,Seafood,"Seaweed and fish",13.25,0
+59,"Raclette Courdavault",4,"Dairy Products",Cheeses,55.00,0
+60,"Camembert Pierrot",4,"Dairy Products",Cheeses,34.00,0
+61,"Sirop d'érable",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",28.50,0
+62,"Tarte au sucre",3,Confections,"Desserts, candies, and sweet breads",49.30,0
+63,Vegie-spread,2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",43.90,0
+64,"Wimmers gute Semmelknödel",5,"Grains & Cereals","Breads, crackers, pasta, and cereal",33.25,0
+65,"Louisiana Fiery Hot Pepper Sauce",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",21.05,0
+66,"Louisiana Hot Spiced Okra",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",17.00,0
+67,"Laughing Lumberjack Lager",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",14.00,0
+68,"Scottish Longbreads",3,Confections,"Desserts, candies, and sweet breads",12.50,0
+69,Gudbrandsdalsost,4,"Dairy Products",Cheeses,36.00,0
+70,"Outback Lager",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",15.00,0
+71,Flotemysost,4,"Dairy Products",Cheeses,21.50,0
+72,"Mozzarella di Giovanni",4,"Dairy Products",Cheeses,34.80,0
+73,"Röd Kaviar",8,Seafood,"Seaweed and fish",15.00,0
+74,"Longlife Tofu",7,Produce,"Dried fruit and bean curd",10.00,0
+75,"Rhönbräu Klosterbier",1,Beverages,"Soft drinks, coffees, teas, beers, and ales",7.75,0
+76,Lakkaliköri,1,Beverages,"Soft drinks, coffees, teas, beers, and ales",18.00,0
+77,"Original Frankfurter Grüne Soße",2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",13.00,0
